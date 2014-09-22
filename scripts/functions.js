@@ -1,5 +1,5 @@
 jQuery('document').ready(function () {
-
+	alert('Johny Five is alive!');
     var $ = jQuery;
 
     $(".lw-slider").each(function () {

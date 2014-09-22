@@ -14,7 +14,7 @@ function my_contacScripts_method() {
 	//wp_enqueue_script( 'jquery-ui-touch-punch' );
 	//wp_register_script( 'jquery-fastClick', MYPLUGINNAME_PATH.'scripts/jQuery-fastClick.js',array('jquery'),NULL,false);
 	//wp_enqueue_script( 'jquery-fastClick' );
-	wp_register_script( 'functions.js', plugin_dir_url(__FILE__).'scripts/functions.js',array('jquery,jquery-ui-core'),NULL,true);
+	wp_register_script( 'functions.js', plugin_dir_url(__FILE__).'scripts/functions.js',array('jquery-ui-core'),NULL,true);
 	wp_enqueue_script( 'functions.js' );
 }
 add_action('wp_enqueue_scripts', 'my_contacScripts_method');
