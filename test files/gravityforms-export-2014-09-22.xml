@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<forms version="1.8.16">
+	<form labelPlacement="top_label" useCurrentUserAsAuthor="1">
+		<title><![CDATA[Test Form 1]]></title>
+		<description><![CDATA[This is a test of the radio to slider plugin]]></description>
+		<descriptionPlacement><![CDATA[below]]></descriptionPlacement>
+		<button type="text">
+			<text><![CDATA[Submit]]></text>
+		</button>
+		<fields>
+			<field id="1" size="medium" type="radio">
+				<cssClass><![CDATA[lw-slider]]></cssClass>
+				<label><![CDATA[Question 1]]></label>
+				<choices>
+					<choice>
+						<text><![CDATA[1]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[2]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[3]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[4]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[5]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[6]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[7]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[8]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[9]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[10]]></text>
+					</choice>
+				</choices>
+			</field>
+			<field id="6" size="medium" type="radio">
+				<cssClass><![CDATA[lw-slider]]></cssClass>
+				<label><![CDATA[Question 2]]></label>
+				<choices>
+					<choice>
+						<text><![CDATA[1]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[2]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[3]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[4]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[5]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[6]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[7]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[8]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[9]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[10]]></text>
+					</choice>
+				</choices>
+			</field>
+			<field id="5" size="medium" type="radio">
+				<cssClass><![CDATA[lw-slider]]></cssClass>
+				<label><![CDATA[Question 3]]></label>
+				<choices>
+					<choice>
+						<text><![CDATA[1]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[2]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[3]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[4]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[5]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[6]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[7]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[8]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[9]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[10]]></text>
+					</choice>
+				</choices>
+			</field>
+			<field id="4" size="medium" type="radio">
+				<cssClass><![CDATA[lw-slider]]></cssClass>
+				<label><![CDATA[Question 4]]></label>
+				<choices>
+					<choice>
+						<text><![CDATA[1]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[2]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[3]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[4]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[5]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[6]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[7]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[8]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[9]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[10]]></text>
+					</choice>
+				</choices>
+			</field>
+			<field id="3" size="medium" type="radio">
+				<cssClass><![CDATA[lw-slider]]></cssClass>
+				<label><![CDATA[Question 5]]></label>
+				<choices>
+					<choice>
+						<text><![CDATA[1]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[2]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[3]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[4]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[5]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[6]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[7]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[8]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[9]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[10]]></text>
+					</choice>
+				</choices>
+			</field>
+			<field id="2" size="medium" type="radio">
+				<cssClass><![CDATA[lw-slider]]></cssClass>
+				<label><![CDATA[Question 6]]></label>
+				<choices>
+					<choice>
+						<text><![CDATA[1]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[2]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[3]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[4]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[5]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[6]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[7]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[8]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[9]]></text>
+					</choice>
+					<choice>
+						<text><![CDATA[10]]></text>
+					</choice>
+				</choices>
+			</field>
+		</fields>
+		<confirmations>
+			<confirmation id="541facd4556e5" isDefault="1" type="message">
+				<name><![CDATA[Default Confirmation]]></name>
+				<message><![CDATA[Thanks for contacting us! We will get in touch with you shortly.]]></message>
+			</confirmation>
+		</confirmations>
+		<notifications>
+			<notification id="541facd4533af">
+				<to><![CDATA[{admin_email}]]></to>
+				<name><![CDATA[Admin Notification]]></name>
+				<event><![CDATA[form_submission]]></event>
+				<toType><![CDATA[email]]></toType>
+				<subject><![CDATA[New submission from {form_title}]]></subject>
+				<message><![CDATA[{all_fields}]]></message>
+				<isActive><![CDATA[0]]></isActive>
+			</notification>
+		</notifications>
+	</form>
+</forms>
