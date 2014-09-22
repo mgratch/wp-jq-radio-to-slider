@@ -1,5 +1,5 @@
-jQuery('document').ready(function () {
-	alert('Johny Five is alive!');
+jQuery(document).ready(function($) {
+	//alert('Johny Five is alive!');
     var $ = jQuery;
 
     $(".lw-slider").each(function () {
@@ -27,5 +27,5 @@ jQuery('document').ready(function () {
 
         $(".ginput_container").hide();
     });
-    $('.ui-slider').draggable();
+    //$('.ui-slider').draggable();
 });
